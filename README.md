@@ -1,4 +1,6 @@
-### Hi there 👋
+# 👋  Hi, I'm Tien Hoang
+
+<p align="center"></p>
 
 <!--
 **TiennMinhh/TiennMinhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👯 I'm working for [Mantu](https://www.mantu.com/) company.
+
+🌱 I’m currently learning about C# and .NET platform
